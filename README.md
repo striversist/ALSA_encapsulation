@@ -65,7 +65,7 @@ Show all the parameters of the current sound card
 Sometimes the period size gets wrong value (from `snd_pcm_hw_params_get_period_size`), this method force the period size to the value passed
 
 #Reference
-对该工程中的API注解可以参考：http://www.360doc.com/content/11/0613/13/168576_126610836.shtml
-A Tutorial on Using the ALSA Audio API: http://equalarea.com/paul/alsa-audio.html#howto
-ALSA Programming HOWTO: http://alsamodular.sourceforge.net/alsa_programming_howto.html
-C++11 中值得关注的几大变化（详解）: http://coolshell.cn/articles/5265.html
+对该工程中的API注解可以参考：http://www.360doc.com/content/11/0613/13/168576_126610836.shtml <br/>
+A Tutorial on Using the ALSA Audio API: http://equalarea.com/paul/alsa-audio.html#howto <br/>
+ALSA Programming HOWTO: http://alsamodular.sourceforge.net/alsa_programming_howto.html <br/>
+C++11 中值得关注的几大变化（详解）: http://coolshell.cn/articles/5265.html <br/>
